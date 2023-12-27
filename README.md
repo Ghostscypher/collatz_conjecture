@@ -47,7 +47,7 @@ Note that the simulation reaches a sequence of 100000 in 152 steps.
 
 **len** = `20`, **angle** = `5`
 
-![Image 2](./screenshots/20-0.5.png)
+![Image 2](./screenshots/20-5.png)
 
 ## Demo
 
