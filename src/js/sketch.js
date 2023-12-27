@@ -3,7 +3,7 @@ const MAX = 100000;
 let memo = {};
 let memo_keys = null;
 let n = 0;
-let len = 10;
+let len = 5;
 let angle = 0.15;
 
 function setup() {
